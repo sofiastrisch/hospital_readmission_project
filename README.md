@@ -16,7 +16,7 @@ The dataset contains patient information such as:
 ## Project Workflow
 
 1. **Data Cleaning**  
-   - Script: `./scripts/1_data_cleaning.py`  
+   - Script: `/scripts/1_data_cleaning.py`  
    - Loads raw dataset  
    - Removes irrelevant columns and missing data  
    - Saves cleaned dataset as `data/readmission_clean_simple.csv`
